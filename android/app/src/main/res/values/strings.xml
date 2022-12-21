@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ADAM’s FAMILY</string>
+    <string name="facebook_app_id">1353310568778460</string>
+    <string name="fb_login_protocol_scheme">fb1353310568778460</string>
+    <string name="facebook_client_token">df7fc8a6f63c635bb6492ecece120eb6</string>
+</resources>
+
